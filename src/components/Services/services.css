@@ -1,0 +1,30 @@
+.services{
+    height: 100vh;
+    width: 100vw;
+    background-color: red;
+    position: relative;
+}
+#services{
+    display: flex;
+    align-items: start;
+    font-family: a;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    width: 100vw;
+    position: relative;
+    padding: 0vw 8vw;
+    color: #fff;
+    background-color: #010617;
+}
+#services>h2{
+    margin-bottom: 3vw;
+    font-weight: 100;
+}
+#services>h1{
+    font-weight: 100;
+    line-height: 1.3;
+    width: 90%;
+    font-size: 4vw;
+    color: #dadada69;
+}
